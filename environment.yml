@@ -127,6 +127,5 @@ dependencies:
     - multiprocess==0.70.9
     - flask==1.1.1
     - numpy==1.17.2
-    - msgpack==0.6.2
     - dill==0.3.1.1
 prefix: "/home/ubuntu/anaconda3/envspa-2048"
